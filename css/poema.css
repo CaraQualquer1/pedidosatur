@@ -1,0 +1,24 @@
+.corpo{
+    width: 100%;
+    background-color: #edc5c5;
+}
+.seta{
+    height: 60px;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-right: 90px;
+}
+i{
+    color: aliceblue;
+    margin-top: 3%;
+    cursor: pointer;
+}
+.titulo{
+    margin-top: 3%;
+    color:aliceblue;
+    text-align: center;
+    padding-left: 80px;
+    
+}

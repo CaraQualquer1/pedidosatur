@@ -1,0 +1,29 @@
+body{
+    background-image: url('../img/fundo.jpg');
+    height: 100%;
+}
+.opcoes{
+    width: 85%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.btn-block {
+    margin: auto;
+}
+.icon {
+    text-align: center;
+    margin-top: 40%;
+}
+img{
+    width: 50%;
+}
+.btncor1{
+    background-color: #f07e3c !important;
+    border-color: #f07e3c !important;
+}
+.btncor2{
+    background-color: #75716e !important;
+    border-color: #75716e !important;
+}
